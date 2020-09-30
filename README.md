@@ -10,6 +10,7 @@ My name is Arif Hanif.
 
 [![Arif's github stats](https://github-readme-stats.vercel.app/api?username=arif-hanif&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-hanif)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arif-hanif/arif-hanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

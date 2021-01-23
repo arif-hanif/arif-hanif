@@ -8,6 +8,50 @@ My name is Arif Hanif.
 - :gift: Graph enthusiast.
 - :factory: Automate the boring tasks and make something for engineers.
 
+#### 💻 Tech Stack
+
+<table>
+    <tbody>
+    <tr>
+      <td width="25%" align="center">
+        Languages
+      </td>
+      <td width="25%" align="center">
+        Frameworks / Libraries
+      </td>
+      <td width="25%" align="center">
+        Tools
+      </td>      
+    </tr>
+    <tr>
+      <td>
+        <ul>
+            <li>C#</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li>React</li>
+            <li>Django</li>
+            <li>ASP.net</li>
+        </ul>
+        </td>
+      <td>
+        <ul>
+            <li>Rider</li>
+            <li>VS Code</li>
+            <li>Docker</li>
+            <li>MIRO</li>
+            <li>draw.io</li>
+        </ul>
+        </td>
+    </tr>
+  </tbody>
+</table>
+
+
 [![Arif's github stats](https://github-readme-stats.vercel.app/api?username=arif-hanif&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-hanif)](https://github.com/anuraghazra/github-readme-stats)
